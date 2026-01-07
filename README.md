@@ -4,6 +4,12 @@
 
 Integrate [RecycleApp](https://recycleapp.be/) into your Home Assistant.
 
+
+## Installation
+* Install NODE RED Repository:  
+https://github.com/v12345vtm/HomeAssistant-RecycleApp/blob/main/nodered/noderedflow.txt
+
+
 ## Installation
 * Install HACS Repository:
 
